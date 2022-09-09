@@ -50,7 +50,7 @@ setInterval(() => {
         
     }
     else if(cross && X<100){
-        score+=1;
+        score+=10;
         updateScore(score)
         cross=false;
         setTimeout(() => {
