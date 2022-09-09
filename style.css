@@ -19,7 +19,7 @@ height: 100vh;
 
 }
 .dino{
-    background-image: url(/images/dino.png);
+    background-image: url(https://github.com/51ab/dino-game/blob/main/images/dino.png?raw=true);
     background-repeat: no-repeat;
     width:150px;
     height:100px;
@@ -29,7 +29,7 @@ height: 100vh;
     left:1.2rem;
 }
 .obstacle{
-    background-image: url(/images/obstacle.png);
+    background-image: url(https://github.com/51ab/dino-game/blob/main/images/obstacle.png?raw=true);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100px;
